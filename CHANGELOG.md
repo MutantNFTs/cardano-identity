@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/MutantNFTs/cardano-identity/compare/v1.0.0...v1.0.1) (2023-09-05)
+
+
+### Bug Fixes
+
+* package access public ([78c28d6](https://github.com/MutantNFTs/cardano-identity/commit/78c28d6922ab6c45b63e47b352b3035f5ea87db4))
+
 # 1.0.0 (2023-09-05)
 
 

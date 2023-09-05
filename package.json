@@ -1,7 +1,7 @@
 {
   "name": "@mutants/cardano-identity",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package that provides utility functions to inspect the identity of a signature",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
