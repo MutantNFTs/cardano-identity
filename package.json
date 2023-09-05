@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "build": "tsc",
-    "test": "jest",
+    "test": "jest --passWithNoTests",
     "coverage": "jest --coverage",
     "lint": "eslint src/*.ts",
     "lint:fix": "eslint src/**/*.ts --fix",
